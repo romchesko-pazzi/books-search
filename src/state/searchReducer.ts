@@ -1,5 +1,5 @@
 import {AppThunkType} from "./hooks";
-import {booksAPI} from "../api/books";
+import {booksAPI} from "../api/books-api";
 
 const initialState: InitStateType = {
     value: "",
